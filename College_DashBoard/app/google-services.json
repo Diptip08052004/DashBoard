@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095024854494",
+    "project_id": "sae-coe",
+    "storage_bucket": "sae-coe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095024854494:android:255530c798600156d1894f",
+        "android_client_info": {
+          "package_name": "com.example.college_dashbord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095024854494-7kjg7g8egp56b4d3m9s52436jk5n67go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtPePrF61V4_zKuhReTe1jlfxDmdeEQsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095024854494-7kjg7g8egp56b4d3m9s52436jk5n67go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
